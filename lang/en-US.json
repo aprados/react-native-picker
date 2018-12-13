@@ -1,4 +1,6 @@
 {
     "BTN_CONFIRM": "OK",
     "BTN_CANCEL": "Cancel"
+    "BTN_LEFT_BUTTON": "Select previous option",
+    "BTN_RIGHT_BUTTON": "Select next option",
 }
