@@ -1,1 +1,3 @@
-module.exports = require('./lib/singlePicker.js');
+import SinglePicker from './lib/singlePicker'
+
+export default SinglePicker;
